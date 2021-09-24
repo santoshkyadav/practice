@@ -1,0 +1,39 @@
+.footer
+{
+	min-height:  100px;
+}
+
+.part2
+{
+	color: black;
+	font-size: 13px;
+	font-weight:  700;
+	
+
+    
+}
+.part3
+{
+
+
+	font-size: 13px;
+	color: 	black;
+	font-weight: 700;
+
+}
+
+h5
+{
+	text-align: center;
+}
+.thumb
+{
+	min-height: 50px;
+	color:	black;
+	text-align: center;
+	line-height: 50px;
+	font-size: 13px;
+	font-weight: 700;
+}
+
+

@@ -1,0 +1,22 @@
+#dropmenu1
+{
+	color:white;font-family: arial;font-size: 18px;
+}
+#dropmenu2
+{
+	color:white;font-family: arial;font-size: 18px;
+}
+#dropmenu3
+{
+	color:white;font-family: arial;font-size: 18px;
+}
+ .submenu_c li a
+{
+	text-decoration: none;
+    color: #211f1f;
+    text-align: center;
+    margin-left: 10px;
+}
+.admin_page:hover{
+    background-color: #f5f2f2;
+}

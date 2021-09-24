@@ -1,0 +1,3 @@
+Customer_Id,FolderName,FileName,Comment
+1,haldi,100_1.jpg,fvdfbfdbdfb
+1,mehandi,100_2.jpg,hudrvh
